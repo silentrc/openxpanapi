@@ -1,3 +1,3 @@
-module open-sdk-go
+module github.com/silentrc/openxpanapi
 
 go 1.13
