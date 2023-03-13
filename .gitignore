@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.idea/
+*.iml
+*.log
+.vs
+*.tmp
+
+*.7z
+.DS_Store
+packages
+config/config.yaml
